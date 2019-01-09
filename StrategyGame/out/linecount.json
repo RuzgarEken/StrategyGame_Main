@@ -1,0 +1,1975 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "c:\\Users\\lenova\\Dropbox\\StrategyGame\\Assets",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2018-12-28 09:38:47",
+            "filesum": 18,
+            "codesum": 1123,
+            "commentsum": 7,
+            "blanksum": 93,
+            "filelist": [
+                {
+                    "blank": 1,
+                    "code": 656,
+                    "comment": 0,
+                    "filename": "Assembly-CSharp.csproj"
+                },
+                {
+                    "blank": 7,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\CameraMovement_TopDown.cs"
+                },
+                {
+                    "blank": 10,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\GridManager.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Map\\MapObje.cs"
+                },
+                {
+                    "blank": 20,
+                    "code": 74,
+                    "comment": 7,
+                    "filename": "Assets\\Scripts\\Map\\MapSetter.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MovingObject.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\Pool.cs"
+                },
+                {
+                    "blank": 14,
+                    "code": 59,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\PoolController.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\PoolObject.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Soldier\\Soldier.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Soldier\\SoldierDestinationSetter.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Soldier\\SoldierMovement.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Soldier\\SoldierSelection.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Tile.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\PositionVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Logs\\Packages-Update.log"
+                },
+                {
+                    "blank": 0,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Packages\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "StrategyGame.sln"
+                }
+            ]
+        },
+        {
+            "version": "0.1.7",
+            "counttime": "2019-01-10 01:10:10",
+            "filesum": 152,
+            "codesum": 6809,
+            "commentsum": 273,
+            "blanksum": 1335,
+            "filelist": [
+                {
+                    "filename": ".vs\\StrategyGame\\v15\\Server\\sqlite3\\storage.ide",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": ".vs\\StrategyGame\\v15\\Server\\sqlite3\\storage.ide-shm",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": ".vs\\StrategyGame\\v15\\Server\\sqlite3\\storage.ide-wal",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 697,
+                    "comment": 0,
+                    "filename": "Assembly-CSharp-Editor.csproj"
+                },
+                {
+                    "blank": 1,
+                    "code": 782,
+                    "comment": 0,
+                    "filename": "Assembly-CSharp.csproj"
+                },
+                {
+                    "blank": 4,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Attributes\\ReadOnly\\Editor\\ReadOnlyDrawer.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Attributes\\ReadOnly\\ReadOnlyAttribute.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\ConditionalEventFirer\\ConditionalEventFirer.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\ConditionalEventFirer\\EventCondition.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Container\\DataContainer.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Container\\DataListContainer.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingData\\EventRaiser_BuildingData.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingData\\GameEvent_BuildingData.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingData\\GameEventListener_BuildingData.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingData\\UnityEvent_BuildingData.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingInstance\\EventRaiser_BuildingInstance.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingInstance\\GameEvent_BuildingInstance.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingInstance\\GameEventListener_BuildingInstance.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingInstance\\UnityEvent_BuildingInstance.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\EventRaiser.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Float\\EventRaiser_float.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Float\\GameEvent_float.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Float\\GameEventListener_float.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Float\\UnityEvent_float.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\FloatVariable\\EventRaiser_FloatVariable.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\FloatVariable\\GameEvent_FloatVariable.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\FloatVariable\\GameEventListener_FloatVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\FloatVariable\\UnityEvent_FloatVariable.cs"
+                },
+                {
+                    "blank": 16,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameEvent.cs"
+                },
+                {
+                    "blank": 12,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameEventListener.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameObject\\EventRaiser_GameObject.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameObject\\GameEvent_GameObject.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameObject\\GameEventListener_GameObject.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameObject\\UnityEvent_GameObject.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Index\\EventRaiser_Index.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Index\\GameEvent_Index.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Index\\GameEventListener_Index.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Index\\UnityEvent_Index.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\IntVariable\\EventRaiser_IntVariable.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\IntVariable\\GameEvent_IntVariable.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\IntVariable\\GameEventListener_IntVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\IntVariable\\UnityEvent_IntVariable.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\SoldierData\\EventRaiser_SoldierData.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\SoldierData\\GameEvent_SoldierData.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\SoldierData\\GameEventListener_SoldierData.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\SoldierData\\UnityEvent_SoldierData.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\String\\EventRaiser_string.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\String\\GameEvent_string.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\String\\GameEventListener_string.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\String\\UnityEvent_string.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\StringVariable\\EventRaiser_StringVariable.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\StringVariable\\GameEvent_StringVariable.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\StringVariable\\GameEventListener_StringVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\StringVariable\\UnityEvent_StringVariable.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector2\\EventRaiser_Vector2.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector2\\GameEvent_Vector2.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector2\\GameEventListener_Vector2.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector2\\UnityEvent_Vector2.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector3\\EventRaiser_Vector3.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector3\\GameEvent_Vector3.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector3\\GameEventListener_Vector3.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector3\\UnityEvent_Vector3.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Interfaces\\IMouseUser.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\BuildingSelection\\BuildingGetter.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\BuildingSelection\\BuildingInstanceHolder.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\BuildingSelection\\BuildingSelection.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\CameraMovement_TopDown.cs"
+                },
+                {
+                    "blank": 22,
+                    "code": 102,
+                    "comment": 13,
+                    "filename": "Assets\\Scripts\\Managers\\ConstructionSetter.cs"
+                },
+                {
+                    "blank": 34,
+                    "code": 130,
+                    "comment": 8,
+                    "filename": "Assets\\Scripts\\Managers\\InstanceManager.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\MapMovement\\MapMover.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\MapMovement\\MapMover_Controller.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\MouseManager.cs"
+                },
+                {
+                    "blank": 28,
+                    "code": 111,
+                    "comment": 12,
+                    "filename": "Assets\\Scripts\\Managers\\Positioner\\SoldierPositioner.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Positioner\\SoldierSpawner.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierMovement\\ActiveSoldierMovementDisplayer.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierMovement\\SoldierDestinationSetter.cs"
+                },
+                {
+                    "blank": 21,
+                    "code": 87,
+                    "comment": 8,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierMovement\\SoldierMovement.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierSelection\\SelectedSoldiers.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierSelection\\SoldierInstancesHolder.cs"
+                },
+                {
+                    "blank": 14,
+                    "code": 74,
+                    "comment": 3,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierSelection\\SoldierSelectionController.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierSelection\\SoldierSelectionDisplayer.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\TileSelection\\SelectedTiles.cs"
+                },
+                {
+                    "blank": 15,
+                    "code": 62,
+                    "comment": 1,
+                    "filename": "Assets\\Scripts\\Managers\\TileSelection\\TileSelectionController.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 29,
+                    "comment": 4,
+                    "filename": "Assets\\Scripts\\Managers\\TileSelection\\TileSelectionDisplayer.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\ClickedLayerObjeGetter.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\ClickedLayerObjeGetter_Building.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\ClickedLayerObjeGetter_Tile.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 40,
+                    "comment": 9,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\ExistsTileGetterOnMap.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\MapUtils.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\NextPossibleMovementPointHolder.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\NextPossiblePointHolder.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 6,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\NextPossibleSpawnPointHolder.cs"
+                },
+                {
+                    "blank": 23,
+                    "code": 83,
+                    "comment": 9,
+                    "filename": "Assets\\Scripts\\Map\\Index.cs"
+                },
+                {
+                    "blank": 54,
+                    "code": 258,
+                    "comment": 9,
+                    "filename": "Assets\\Scripts\\Map\\MapSetter.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Building.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\BuildingData.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Instance.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Instance_Building.cs"
+                },
+                {
+                    "blank": 14,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Instance_Soldier.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\MapObje.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\MapObjeData.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Soldier.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\SoldierData.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Tile.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 24,
+                    "comment": 3,
+                    "filename": "Assets\\Scripts\\MiniMap\\MiniMapController.cs"
+                },
+                {
+                    "blank": 18,
+                    "code": 105,
+                    "comment": 3,
+                    "filename": "Assets\\Scripts\\MiniMap\\MinimapDisplayer.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pathfinding\\ITileGrid.cs"
+                },
+                {
+                    "blank": 20,
+                    "code": 67,
+                    "comment": 40,
+                    "filename": "Assets\\Scripts\\Pathfinding\\PathFinding_AStar.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pathfinding\\PathFindingGridInterface.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 29,
+                    "comment": 1,
+                    "filename": "Assets\\Scripts\\Pathfinding\\PriorityQueue.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\Pool.cs"
+                },
+                {
+                    "blank": 15,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\PoolController.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\PoolObject.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\ScroolView_Looper\\ScrollView_Looper.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\TwoKeyDictionary\\Dictionary.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\BuildingButton.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\BuildingInfoDisplayer.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\MapObjeDisplayer.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\RowDisplayer.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\ScrollContentCreator.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 54,
+                    "comment": 2,
+                    "filename": "Assets\\Scripts\\UI\\ScrollContentSetter.cs"
+                },
+                {
+                    "blank": 11,
+                    "code": 45,
+                    "comment": 5,
+                    "filename": "Assets\\Scripts\\UI\\Scrollrect_Op.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\SoldierButton.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\BoolVariable.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\ColorVariable.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\FloatVariable.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\IntVariable.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\PositionVariable.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\StringVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\Variable.cs"
+                },
+                {
+                    "blank": 0,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "Assets\\Sprites\\GameSprites.spriteatlas"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt"
+                },
+                {
+                    "blank": 32,
+                    "code": 108,
+                    "comment": 2,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_Bitmap-Custom-Atlas.shader"
+                },
+                {
+                    "blank": 30,
+                    "code": 111,
+                    "comment": 3,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_Bitmap-Mobile.shader"
+                },
+                {
+                    "blank": 32,
+                    "code": 108,
+                    "comment": 2,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_Bitmap.shader"
+                },
+                {
+                    "blank": 66,
+                    "code": 234,
+                    "comment": 8,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF Overlay.shader"
+                },
+                {
+                    "blank": 49,
+                    "code": 188,
+                    "comment": 13,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Mobile Masking.shader"
+                },
+                {
+                    "blank": 47,
+                    "code": 174,
+                    "comment": 13,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Mobile Overlay.shader"
+                },
+                {
+                    "blank": 47,
+                    "code": 174,
+                    "comment": 13,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Mobile.shader"
+                },
+                {
+                    "blank": 27,
+                    "code": 101,
+                    "comment": 9,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Surface-Mobile.shader"
+                },
+                {
+                    "blank": 31,
+                    "code": 120,
+                    "comment": 5,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Surface.shader"
+                },
+                {
+                    "blank": 67,
+                    "code": 234,
+                    "comment": 8,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF.shader"
+                },
+                {
+                    "blank": 21,
+                    "code": 92,
+                    "comment": 0,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_Sprite.shader"
+                },
+                {
+                    "blank": 19,
+                    "code": 63,
+                    "comment": 3,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMPro.cginc"
+                },
+                {
+                    "blank": 13,
+                    "code": 61,
+                    "comment": 44,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMPro_Properties.cginc"
+                },
+                {
+                    "blank": 22,
+                    "code": 84,
+                    "comment": 10,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMPro_Surface.cginc"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt"
+                },
+                {
+                    "blank": 1,
+                    "code": 155,
+                    "comment": 0,
+                    "filename": "Assets\\TextMesh Pro\\Sprites\\EmojiOne.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Logs\\Packages-Update.log"
+                },
+                {
+                    "blank": 0,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Packages\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "StrategyGame.sln"
+                }
+            ]
+        },
+        {
+            "version": "0.1.7",
+            "counttime": "2019-01-10 01:12:04",
+            "filesum": 152,
+            "codesum": 6809,
+            "commentsum": 273,
+            "blanksum": 1335,
+            "filelist": [
+                {
+                    "filename": ".vs\\StrategyGame\\v15\\Server\\sqlite3\\storage.ide",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": ".vs\\StrategyGame\\v15\\Server\\sqlite3\\storage.ide-shm",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": ".vs\\StrategyGame\\v15\\Server\\sqlite3\\storage.ide-wal",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 697,
+                    "comment": 0,
+                    "filename": "Assembly-CSharp-Editor.csproj"
+                },
+                {
+                    "blank": 1,
+                    "code": 782,
+                    "comment": 0,
+                    "filename": "Assembly-CSharp.csproj"
+                },
+                {
+                    "blank": 4,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Attributes\\ReadOnly\\Editor\\ReadOnlyDrawer.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Attributes\\ReadOnly\\ReadOnlyAttribute.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\ConditionalEventFirer\\ConditionalEventFirer.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\ConditionalEventFirer\\EventCondition.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Container\\DataContainer.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Container\\DataListContainer.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingData\\EventRaiser_BuildingData.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingData\\GameEvent_BuildingData.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingData\\GameEventListener_BuildingData.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingData\\UnityEvent_BuildingData.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingInstance\\EventRaiser_BuildingInstance.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingInstance\\GameEvent_BuildingInstance.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingInstance\\GameEventListener_BuildingInstance.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\BuildingInstance\\UnityEvent_BuildingInstance.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\EventRaiser.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Float\\EventRaiser_float.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Float\\GameEvent_float.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Float\\GameEventListener_float.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Float\\UnityEvent_float.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\FloatVariable\\EventRaiser_FloatVariable.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\FloatVariable\\GameEvent_FloatVariable.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\FloatVariable\\GameEventListener_FloatVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\FloatVariable\\UnityEvent_FloatVariable.cs"
+                },
+                {
+                    "blank": 16,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameEvent.cs"
+                },
+                {
+                    "blank": 12,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameEventListener.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameObject\\EventRaiser_GameObject.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameObject\\GameEvent_GameObject.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameObject\\GameEventListener_GameObject.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\GameObject\\UnityEvent_GameObject.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Index\\EventRaiser_Index.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Index\\GameEvent_Index.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Index\\GameEventListener_Index.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Index\\UnityEvent_Index.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\IntVariable\\EventRaiser_IntVariable.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\IntVariable\\GameEvent_IntVariable.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\IntVariable\\GameEventListener_IntVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\IntVariable\\UnityEvent_IntVariable.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\SoldierData\\EventRaiser_SoldierData.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\SoldierData\\GameEvent_SoldierData.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\SoldierData\\GameEventListener_SoldierData.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\SoldierData\\UnityEvent_SoldierData.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\String\\EventRaiser_string.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\String\\GameEvent_string.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\String\\GameEventListener_string.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\String\\UnityEvent_string.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\StringVariable\\EventRaiser_StringVariable.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\StringVariable\\GameEvent_StringVariable.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\StringVariable\\GameEventListener_StringVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\StringVariable\\UnityEvent_StringVariable.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector2\\EventRaiser_Vector2.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector2\\GameEvent_Vector2.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector2\\GameEventListener_Vector2.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector2\\UnityEvent_Vector2.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector3\\EventRaiser_Vector3.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector3\\GameEvent_Vector3.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector3\\GameEventListener_Vector3.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Events\\Vector3\\UnityEvent_Vector3.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Interfaces\\IMouseUser.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\BuildingSelection\\BuildingGetter.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\BuildingSelection\\BuildingInstanceHolder.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\BuildingSelection\\BuildingSelection.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\CameraMovement_TopDown.cs"
+                },
+                {
+                    "blank": 22,
+                    "code": 102,
+                    "comment": 13,
+                    "filename": "Assets\\Scripts\\Managers\\ConstructionSetter.cs"
+                },
+                {
+                    "blank": 34,
+                    "code": 130,
+                    "comment": 8,
+                    "filename": "Assets\\Scripts\\Managers\\InstanceManager.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\MapMovement\\MapMover.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\MapMovement\\MapMover_Controller.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\MouseManager.cs"
+                },
+                {
+                    "blank": 28,
+                    "code": 111,
+                    "comment": 12,
+                    "filename": "Assets\\Scripts\\Managers\\Positioner\\SoldierPositioner.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Positioner\\SoldierSpawner.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierMovement\\ActiveSoldierMovementDisplayer.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierMovement\\SoldierDestinationSetter.cs"
+                },
+                {
+                    "blank": 21,
+                    "code": 87,
+                    "comment": 8,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierMovement\\SoldierMovement.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierSelection\\SelectedSoldiers.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierSelection\\SoldierInstancesHolder.cs"
+                },
+                {
+                    "blank": 14,
+                    "code": 74,
+                    "comment": 3,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierSelection\\SoldierSelectionController.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\SoldierSelection\\SoldierSelectionDisplayer.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\TileSelection\\SelectedTiles.cs"
+                },
+                {
+                    "blank": 15,
+                    "code": 62,
+                    "comment": 1,
+                    "filename": "Assets\\Scripts\\Managers\\TileSelection\\TileSelectionController.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 29,
+                    "comment": 4,
+                    "filename": "Assets\\Scripts\\Managers\\TileSelection\\TileSelectionDisplayer.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\ClickedLayerObjeGetter.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\ClickedLayerObjeGetter_Building.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\ClickedLayerObjeGetter_Tile.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 40,
+                    "comment": 9,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\ExistsTileGetterOnMap.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\MapUtils.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\NextPossibleMovementPointHolder.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\NextPossiblePointHolder.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 6,
+                    "filename": "Assets\\Scripts\\Managers\\Tools\\NextPossibleSpawnPointHolder.cs"
+                },
+                {
+                    "blank": 23,
+                    "code": 83,
+                    "comment": 9,
+                    "filename": "Assets\\Scripts\\Map\\Index.cs"
+                },
+                {
+                    "blank": 54,
+                    "code": 258,
+                    "comment": 9,
+                    "filename": "Assets\\Scripts\\Map\\MapSetter.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Building.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\BuildingData.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Instance.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Instance_Building.cs"
+                },
+                {
+                    "blank": 14,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Instance_Soldier.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\MapObje.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\MapObjeData.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Soldier.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\SoldierData.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\MapObjects\\Tile.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 24,
+                    "comment": 3,
+                    "filename": "Assets\\Scripts\\MiniMap\\MiniMapController.cs"
+                },
+                {
+                    "blank": 18,
+                    "code": 105,
+                    "comment": 3,
+                    "filename": "Assets\\Scripts\\MiniMap\\MinimapDisplayer.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pathfinding\\ITileGrid.cs"
+                },
+                {
+                    "blank": 20,
+                    "code": 67,
+                    "comment": 40,
+                    "filename": "Assets\\Scripts\\Pathfinding\\PathFinding_AStar.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pathfinding\\PathFindingGridInterface.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 29,
+                    "comment": 1,
+                    "filename": "Assets\\Scripts\\Pathfinding\\PriorityQueue.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\Pool.cs"
+                },
+                {
+                    "blank": 15,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\PoolController.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Pool\\PoolObject.cs"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\ScroolView_Looper\\ScrollView_Looper.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\TwoKeyDictionary\\Dictionary.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\BuildingButton.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\BuildingInfoDisplayer.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\MapObjeDisplayer.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\RowDisplayer.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\ScrollContentCreator.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 54,
+                    "comment": 2,
+                    "filename": "Assets\\Scripts\\UI\\ScrollContentSetter.cs"
+                },
+                {
+                    "blank": 11,
+                    "code": 45,
+                    "comment": 5,
+                    "filename": "Assets\\Scripts\\UI\\Scrollrect_Op.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\UI\\SoldierButton.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\BoolVariable.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\ColorVariable.cs"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\FloatVariable.cs"
+                },
+                {
+                    "blank": 6,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\IntVariable.cs"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\PositionVariable.cs"
+                },
+                {
+                    "blank": 9,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\StringVariable.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Assets\\Scripts\\Variables\\Variable.cs"
+                },
+                {
+                    "blank": 0,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "Assets\\Sprites\\GameSprites.spriteatlas"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt"
+                },
+                {
+                    "blank": 32,
+                    "code": 108,
+                    "comment": 2,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_Bitmap-Custom-Atlas.shader"
+                },
+                {
+                    "blank": 30,
+                    "code": 111,
+                    "comment": 3,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_Bitmap-Mobile.shader"
+                },
+                {
+                    "blank": 32,
+                    "code": 108,
+                    "comment": 2,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_Bitmap.shader"
+                },
+                {
+                    "blank": 66,
+                    "code": 234,
+                    "comment": 8,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF Overlay.shader"
+                },
+                {
+                    "blank": 49,
+                    "code": 188,
+                    "comment": 13,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Mobile Masking.shader"
+                },
+                {
+                    "blank": 47,
+                    "code": 174,
+                    "comment": 13,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Mobile Overlay.shader"
+                },
+                {
+                    "blank": 47,
+                    "code": 174,
+                    "comment": 13,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Mobile.shader"
+                },
+                {
+                    "blank": 27,
+                    "code": 101,
+                    "comment": 9,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Surface-Mobile.shader"
+                },
+                {
+                    "blank": 31,
+                    "code": 120,
+                    "comment": 5,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF-Surface.shader"
+                },
+                {
+                    "blank": 67,
+                    "code": 234,
+                    "comment": 8,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_SDF.shader"
+                },
+                {
+                    "blank": 21,
+                    "code": 92,
+                    "comment": 0,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMP_Sprite.shader"
+                },
+                {
+                    "blank": 19,
+                    "code": 63,
+                    "comment": 3,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMPro.cginc"
+                },
+                {
+                    "blank": 13,
+                    "code": 61,
+                    "comment": 44,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMPro_Properties.cginc"
+                },
+                {
+                    "blank": 22,
+                    "code": 84,
+                    "comment": 10,
+                    "filename": "Assets\\TextMesh Pro\\Resources\\Shaders\\TMPro_Surface.cginc"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt"
+                },
+                {
+                    "blank": 1,
+                    "code": 155,
+                    "comment": 0,
+                    "filename": "Assets\\TextMesh Pro\\Sprites\\EmojiOne.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Logs\\Packages-Update.log"
+                },
+                {
+                    "blank": 0,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Packages\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "StrategyGame.sln"
+                }
+            ]
+        }
+    ]
+}

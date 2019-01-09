@@ -1,0 +1,358 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-12-28 09:38:47
+count workspace : c:\Users\lenova\Dropbox\StrategyGame
+total files : 18
+total code lines : 1123
+total comment lines : 7
+total blank lines : 93
+
+Assembly-CSharp.csproj, code is 656, comment is 0, blank is 1.
+Assets\Scripts\CameraMovement_TopDown.cs, code is 36, comment is 0, blank is 7.
+Assets\Scripts\GridManager.cs, code is 38, comment is 0, blank is 10.
+Assets\Scripts\Map\MapObje.cs, code is 21, comment is 0, blank is 4.
+Assets\Scripts\Map\MapSetter.cs, code is 74, comment is 7, blank is 20.
+Assets\Scripts\MovingObject.cs, code is 23, comment is 0, blank is 5.
+Assets\Scripts\Pool\Pool.cs, code is 15, comment is 0, blank is 3.
+Assets\Scripts\Pool\PoolController.cs, code is 59, comment is 0, blank is 14.
+Assets\Scripts\Pool\PoolObject.cs, code is 12, comment is 0, blank is 4.
+Assets\Scripts\Soldier\Soldier.cs, code is 7, comment is 0, blank is 2.
+Assets\Scripts\Soldier\SoldierDestinationSetter.cs, code is 17, comment is 0, blank is 5.
+Assets\Scripts\Soldier\SoldierMovement.cs, code is 25, comment is 0, blank is 6.
+Assets\Scripts\Soldier\SoldierSelection.cs, code is 13, comment is 0, blank is 4.
+Assets\Scripts\Tile.cs, code is 16, comment is 0, blank is 4.
+Assets\Scripts\Variables\PositionVariable.cs, code is 8, comment is 0, blank is 1.
+Logs\Packages-Update.log, code is 40, comment is 0, blank is 3.
+Packages\manifest.json, code is 40, comment is 0, blank is 0.
+StrategyGame.sln, code is 23, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2019-01-10 01:10:09
+count workspace : c:\Users\lenova\Dropbox\StrategyGame
+total files : 152
+total code lines : 6809
+total comment lines : 273
+total blank lines : 1335
+
+.vs\StrategyGame\v15\Server\sqlite3\storage.ide, it is a binary file.
+.vs\StrategyGame\v15\Server\sqlite3\storage.ide-shm, it is a binary file.
+.vs\StrategyGame\v15\Server\sqlite3\storage.ide-wal, it is a binary file.
+Assembly-CSharp-Editor.csproj, code is 697, comment is 0, blank is 1.
+Assembly-CSharp.csproj, code is 782, comment is 0, blank is 1.
+Assets\Scripts\Attributes\ReadOnly\Editor\ReadOnlyDrawer.cs, code is 15, comment is 0, blank is 4.
+Assets\Scripts\Attributes\ReadOnly\ReadOnlyAttribute.cs, code is 5, comment is 0, blank is 1.
+Assets\Scripts\ConditionalEventFirer\ConditionalEventFirer.cs, code is 36, comment is 0, blank is 6.
+Assets\Scripts\ConditionalEventFirer\EventCondition.cs, code is 9, comment is 0, blank is 2.
+Assets\Scripts\Container\DataContainer.cs, code is 8, comment is 0, blank is 2.
+Assets\Scripts\Container\DataListContainer.cs, code is 8, comment is 0, blank is 2.
+Assets\Scripts\Events\BuildingData\EventRaiser_BuildingData.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\BuildingData\GameEvent_BuildingData.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\BuildingData\GameEventListener_BuildingData.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\BuildingData\UnityEvent_BuildingData.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\BuildingInstance\EventRaiser_BuildingInstance.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\BuildingInstance\GameEvent_BuildingInstance.cs, code is 15, comment is 0, blank is 4.
+Assets\Scripts\Events\BuildingInstance\GameEventListener_BuildingInstance.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\BuildingInstance\UnityEvent_BuildingInstance.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\EventRaiser.cs, code is 18, comment is 0, blank is 7.
+Assets\Scripts\Events\Float\EventRaiser_float.cs, code is 10, comment is 0, blank is 6.
+Assets\Scripts\Events\Float\GameEvent_float.cs, code is 13, comment is 0, blank is 6.
+Assets\Scripts\Events\Float\GameEventListener_float.cs, code is 17, comment is 0, blank is 6.
+Assets\Scripts\Events\Float\UnityEvent_float.cs, code is 6, comment is 0, blank is 4.
+Assets\Scripts\Events\FloatVariable\EventRaiser_FloatVariable.cs, code is 11, comment is 0, blank is 4.
+Assets\Scripts\Events\FloatVariable\GameEvent_FloatVariable.cs, code is 13, comment is 0, blank is 5.
+Assets\Scripts\Events\FloatVariable\GameEventListener_FloatVariable.cs, code is 18, comment is 0, blank is 6.
+Assets\Scripts\Events\FloatVariable\UnityEvent_FloatVariable.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\GameEvent.cs, code is 30, comment is 0, blank is 16.
+Assets\Scripts\Events\GameEventListener.cs, code is 23, comment is 0, blank is 12.
+Assets\Scripts\Events\GameObject\EventRaiser_GameObject.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\GameObject\GameEvent_GameObject.cs, code is 13, comment is 0, blank is 5.
+Assets\Scripts\Events\GameObject\GameEventListener_GameObject.cs, code is 17, comment is 0, blank is 7.
+Assets\Scripts\Events\GameObject\UnityEvent_GameObject.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\Index\EventRaiser_Index.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\Index\GameEvent_Index.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\Index\GameEventListener_Index.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\Index\UnityEvent_Index.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\IntVariable\EventRaiser_IntVariable.cs, code is 11, comment is 0, blank is 4.
+Assets\Scripts\Events\IntVariable\GameEvent_IntVariable.cs, code is 13, comment is 0, blank is 5.
+Assets\Scripts\Events\IntVariable\GameEventListener_IntVariable.cs, code is 18, comment is 0, blank is 6.
+Assets\Scripts\Events\IntVariable\UnityEvent_IntVariable.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\SoldierData\EventRaiser_SoldierData.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\SoldierData\GameEvent_SoldierData.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\SoldierData\GameEventListener_SoldierData.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\SoldierData\UnityEvent_SoldierData.cs, code is 7, comment is 0, blank is 3.
+Assets\Scripts\Events\String\EventRaiser_string.cs, code is 10, comment is 0, blank is 6.
+Assets\Scripts\Events\String\GameEvent_string.cs, code is 13, comment is 0, blank is 6.
+Assets\Scripts\Events\String\GameEventListener_string.cs, code is 17, comment is 0, blank is 6.
+Assets\Scripts\Events\String\UnityEvent_string.cs, code is 6, comment is 0, blank is 4.
+Assets\Scripts\Events\StringVariable\EventRaiser_StringVariable.cs, code is 10, comment is 0, blank is 3.
+Assets\Scripts\Events\StringVariable\GameEvent_StringVariable.cs, code is 13, comment is 0, blank is 4.
+Assets\Scripts\Events\StringVariable\GameEventListener_StringVariable.cs, code is 17, comment is 0, blank is 6.
+Assets\Scripts\Events\StringVariable\UnityEvent_StringVariable.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\Vector2\EventRaiser_Vector2.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\Vector2\GameEvent_Vector2.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\Vector2\GameEventListener_Vector2.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\Vector2\UnityEvent_Vector2.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\Vector3\EventRaiser_Vector3.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\Vector3\GameEvent_Vector3.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\Vector3\GameEventListener_Vector3.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\Vector3\UnityEvent_Vector3.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Interfaces\IMouseUser.cs, code is 9, comment is 0, blank is 2.
+Assets\Scripts\Managers\BuildingSelection\BuildingGetter.cs, code is 20, comment is 0, blank is 4.
+Assets\Scripts\Managers\BuildingSelection\BuildingInstanceHolder.cs, code is 8, comment is 0, blank is 1.
+Assets\Scripts\Managers\BuildingSelection\BuildingSelection.cs, code is 29, comment is 0, blank is 6.
+Assets\Scripts\Managers\CameraMovement_TopDown.cs, code is 38, comment is 0, blank is 7.
+Assets\Scripts\Managers\ConstructionSetter.cs, code is 102, comment is 13, blank is 22.
+Assets\Scripts\Managers\InstanceManager.cs, code is 130, comment is 8, blank is 34.
+Assets\Scripts\Managers\MapMovement\MapMover.cs, code is 13, comment is 0, blank is 3.
+Assets\Scripts\Managers\MapMovement\MapMover_Controller.cs, code is 37, comment is 0, blank is 7.
+Assets\Scripts\Managers\MouseManager.cs, code is 41, comment is 0, blank is 5.
+Assets\Scripts\Managers\Positioner\SoldierPositioner.cs, code is 111, comment is 12, blank is 28.
+Assets\Scripts\Managers\Positioner\SoldierSpawner.cs, code is 26, comment is 0, blank is 6.
+Assets\Scripts\Managers\SoldierMovement\ActiveSoldierMovementDisplayer.cs, code is 35, comment is 0, blank is 9.
+Assets\Scripts\Managers\SoldierMovement\SoldierDestinationSetter.cs, code is 18, comment is 1, blank is 6.
+Assets\Scripts\Managers\SoldierMovement\SoldierMovement.cs, code is 87, comment is 8, blank is 21.
+Assets\Scripts\Managers\SoldierSelection\SelectedSoldiers.cs, code is 20, comment is 0, blank is 5.
+Assets\Scripts\Managers\SoldierSelection\SoldierInstancesHolder.cs, code is 8, comment is 0, blank is 1.
+Assets\Scripts\Managers\SoldierSelection\SoldierSelectionController.cs, code is 74, comment is 3, blank is 14.
+Assets\Scripts\Managers\SoldierSelection\SoldierSelectionDisplayer.cs, code is 22, comment is 0, blank is 6.
+Assets\Scripts\Managers\TileSelection\SelectedTiles.cs, code is 20, comment is 0, blank is 4.
+Assets\Scripts\Managers\TileSelection\TileSelectionController.cs, code is 62, comment is 1, blank is 15.
+Assets\Scripts\Managers\TileSelection\TileSelectionDisplayer.cs, code is 29, comment is 4, blank is 5.
+Assets\Scripts\Managers\Tools\ClickedLayerObjeGetter.cs, code is 19, comment is 0, blank is 4.
+Assets\Scripts\Managers\Tools\ClickedLayerObjeGetter_Building.cs, code is 6, comment is 0, blank is 2.
+Assets\Scripts\Managers\Tools\ClickedLayerObjeGetter_Tile.cs, code is 6, comment is 0, blank is 2.
+Assets\Scripts\Managers\Tools\ExistsTileGetterOnMap.cs, code is 40, comment is 9, blank is 8.
+Assets\Scripts\Managers\Tools\MapUtils.cs, code is 65, comment is 0, blank is 9.
+Assets\Scripts\Managers\Tools\NextPossibleMovementPointHolder.cs, code is 12, comment is 2, blank is 4.
+Assets\Scripts\Managers\Tools\NextPossiblePointHolder.cs, code is 10, comment is 0, blank is 2.
+Assets\Scripts\Managers\Tools\NextPossibleSpawnPointHolder.cs, code is 26, comment is 6, blank is 4.
+Assets\Scripts\Map\Index.cs, code is 83, comment is 9, blank is 23.
+Assets\Scripts\Map\MapSetter.cs, code is 258, comment is 9, blank is 54.
+Assets\Scripts\MapObjects\Building.cs, code is 20, comment is 0, blank is 6.
+Assets\Scripts\MapObjects\BuildingData.cs, code is 9, comment is 0, blank is 1.
+Assets\Scripts\MapObjects\Instance.cs, code is 29, comment is 0, blank is 5.
+Assets\Scripts\MapObjects\Instance_Building.cs, code is 16, comment is 0, blank is 6.
+Assets\Scripts\MapObjects\Instance_Soldier.cs, code is 48, comment is 0, blank is 14.
+Assets\Scripts\MapObjects\MapObje.cs, code is 17, comment is 0, blank is 5.
+Assets\Scripts\MapObjects\MapObjeData.cs, code is 15, comment is 0, blank is 2.
+Assets\Scripts\MapObjects\Soldier.cs, code is 33, comment is 0, blank is 8.
+Assets\Scripts\MapObjects\SoldierData.cs, code is 9, comment is 0, blank is 1.
+Assets\Scripts\MapObjects\Tile.cs, code is 12, comment is 0, blank is 4.
+Assets\Scripts\MiniMap\MiniMapController.cs, code is 24, comment is 3, blank is 6.
+Assets\Scripts\MiniMap\MinimapDisplayer.cs, code is 105, comment is 3, blank is 18.
+Assets\Scripts\Pathfinding\ITileGrid.cs, code is 9, comment is 0, blank is 2.
+Assets\Scripts\Pathfinding\PathFinding_AStar.cs, code is 67, comment is 40, blank is 20.
+Assets\Scripts\Pathfinding\PathFindingGridInterface.cs, code is 38, comment is 0, blank is 5.
+Assets\Scripts\Pathfinding\PriorityQueue.cs, code is 29, comment is 1, blank is 7.
+Assets\Scripts\Pool\Pool.cs, code is 15, comment is 0, blank is 3.
+Assets\Scripts\Pool\PoolController.cs, code is 64, comment is 0, blank is 15.
+Assets\Scripts\Pool\PoolObject.cs, code is 8, comment is 0, blank is 1.
+Assets\Scripts\ScroolView_Looper\ScrollView_Looper.cs, code is 6, comment is 0, blank is 2.
+Assets\Scripts\TwoKeyDictionary\Dictionary.cs, code is 23, comment is 0, blank is 7.
+Assets\Scripts\UI\BuildingButton.cs, code is 24, comment is 0, blank is 6.
+Assets\Scripts\UI\BuildingInfoDisplayer.cs, code is 23, comment is 0, blank is 7.
+Assets\Scripts\UI\MapObjeDisplayer.cs, code is 29, comment is 0, blank is 9.
+Assets\Scripts\UI\RowDisplayer.cs, code is 23, comment is 0, blank is 5.
+Assets\Scripts\UI\ScrollContentCreator.cs, code is 24, comment is 0, blank is 3.
+Assets\Scripts\UI\ScrollContentSetter.cs, code is 54, comment is 2, blank is 9.
+Assets\Scripts\UI\Scrollrect_Op.cs, code is 45, comment is 5, blank is 11.
+Assets\Scripts\UI\SoldierButton.cs, code is 19, comment is 0, blank is 5.
+Assets\Scripts\Variables\BoolVariable.cs, code is 20, comment is 0, blank is 7.
+Assets\Scripts\Variables\ColorVariable.cs, code is 7, comment is 0, blank is 1.
+Assets\Scripts\Variables\FloatVariable.cs, code is 24, comment is 0, blank is 7.
+Assets\Scripts\Variables\IntVariable.cs, code is 25, comment is 0, blank is 6.
+Assets\Scripts\Variables\PositionVariable.cs, code is 8, comment is 0, blank is 1.
+Assets\Scripts\Variables\StringVariable.cs, code is 25, comment is 0, blank is 9.
+Assets\Scripts\Variables\Variable.cs, code is 7, comment is 0, blank is 3.
+Assets\Sprites\GameSprites.spriteatlas, code is 65, comment is 0, blank is 0.
+Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt, code is 1, comment is 0, blank is 0.
+Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt, code is 1, comment is 0, blank is 0.
+Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader, code is 108, comment is 2, blank is 32.
+Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader, code is 111, comment is 3, blank is 30.
+Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader, code is 108, comment is 2, blank is 32.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader, code is 234, comment is 8, blank is 66.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader, code is 188, comment is 13, blank is 49.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader, code is 174, comment is 13, blank is 47.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader, code is 174, comment is 13, blank is 47.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader, code is 101, comment is 9, blank is 27.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader, code is 120, comment is 5, blank is 31.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader, code is 234, comment is 8, blank is 67.
+Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader, code is 92, comment is 0, blank is 21.
+Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc, code is 63, comment is 3, blank is 19.
+Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc, code is 61, comment is 44, blank is 13.
+Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc, code is 84, comment is 10, blank is 22.
+Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt, code is 2, comment is 1, blank is 1.
+Assets\TextMesh Pro\Sprites\EmojiOne.json, code is 155, comment is 0, blank is 1.
+Logs\Packages-Update.log, code is 40, comment is 0, blank is 3.
+Packages\manifest.json, code is 40, comment is 0, blank is 0.
+StrategyGame.sln, code is 29, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2019-01-10 01:12:04
+count workspace : c:\Users\lenova\Dropbox\StrategyGame
+total files : 152
+total code lines : 6809
+total comment lines : 273
+total blank lines : 1335
+
+.vs\StrategyGame\v15\Server\sqlite3\storage.ide, it is a binary file.
+.vs\StrategyGame\v15\Server\sqlite3\storage.ide-shm, it is a binary file.
+.vs\StrategyGame\v15\Server\sqlite3\storage.ide-wal, it is a binary file.
+Assembly-CSharp-Editor.csproj, code is 697, comment is 0, blank is 1.
+Assembly-CSharp.csproj, code is 782, comment is 0, blank is 1.
+Assets\Scripts\Attributes\ReadOnly\Editor\ReadOnlyDrawer.cs, code is 15, comment is 0, blank is 4.
+Assets\Scripts\Attributes\ReadOnly\ReadOnlyAttribute.cs, code is 5, comment is 0, blank is 1.
+Assets\Scripts\ConditionalEventFirer\ConditionalEventFirer.cs, code is 36, comment is 0, blank is 6.
+Assets\Scripts\ConditionalEventFirer\EventCondition.cs, code is 9, comment is 0, blank is 2.
+Assets\Scripts\Container\DataContainer.cs, code is 8, comment is 0, blank is 2.
+Assets\Scripts\Container\DataListContainer.cs, code is 8, comment is 0, blank is 2.
+Assets\Scripts\Events\BuildingData\EventRaiser_BuildingData.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\BuildingData\GameEvent_BuildingData.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\BuildingData\GameEventListener_BuildingData.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\BuildingData\UnityEvent_BuildingData.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\BuildingInstance\EventRaiser_BuildingInstance.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\BuildingInstance\GameEvent_BuildingInstance.cs, code is 15, comment is 0, blank is 4.
+Assets\Scripts\Events\BuildingInstance\GameEventListener_BuildingInstance.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\BuildingInstance\UnityEvent_BuildingInstance.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\EventRaiser.cs, code is 18, comment is 0, blank is 7.
+Assets\Scripts\Events\Float\EventRaiser_float.cs, code is 10, comment is 0, blank is 6.
+Assets\Scripts\Events\Float\GameEvent_float.cs, code is 13, comment is 0, blank is 6.
+Assets\Scripts\Events\Float\GameEventListener_float.cs, code is 17, comment is 0, blank is 6.
+Assets\Scripts\Events\Float\UnityEvent_float.cs, code is 6, comment is 0, blank is 4.
+Assets\Scripts\Events\FloatVariable\EventRaiser_FloatVariable.cs, code is 11, comment is 0, blank is 4.
+Assets\Scripts\Events\FloatVariable\GameEvent_FloatVariable.cs, code is 13, comment is 0, blank is 5.
+Assets\Scripts\Events\FloatVariable\GameEventListener_FloatVariable.cs, code is 18, comment is 0, blank is 6.
+Assets\Scripts\Events\FloatVariable\UnityEvent_FloatVariable.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\GameEvent.cs, code is 30, comment is 0, blank is 16.
+Assets\Scripts\Events\GameEventListener.cs, code is 23, comment is 0, blank is 12.
+Assets\Scripts\Events\GameObject\EventRaiser_GameObject.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\GameObject\GameEvent_GameObject.cs, code is 13, comment is 0, blank is 5.
+Assets\Scripts\Events\GameObject\GameEventListener_GameObject.cs, code is 17, comment is 0, blank is 7.
+Assets\Scripts\Events\GameObject\UnityEvent_GameObject.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\Index\EventRaiser_Index.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\Index\GameEvent_Index.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\Index\GameEventListener_Index.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\Index\UnityEvent_Index.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\IntVariable\EventRaiser_IntVariable.cs, code is 11, comment is 0, blank is 4.
+Assets\Scripts\Events\IntVariable\GameEvent_IntVariable.cs, code is 13, comment is 0, blank is 5.
+Assets\Scripts\Events\IntVariable\GameEventListener_IntVariable.cs, code is 18, comment is 0, blank is 6.
+Assets\Scripts\Events\IntVariable\UnityEvent_IntVariable.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\SoldierData\EventRaiser_SoldierData.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\SoldierData\GameEvent_SoldierData.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\SoldierData\GameEventListener_SoldierData.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\SoldierData\UnityEvent_SoldierData.cs, code is 7, comment is 0, blank is 3.
+Assets\Scripts\Events\String\EventRaiser_string.cs, code is 10, comment is 0, blank is 6.
+Assets\Scripts\Events\String\GameEvent_string.cs, code is 13, comment is 0, blank is 6.
+Assets\Scripts\Events\String\GameEventListener_string.cs, code is 17, comment is 0, blank is 6.
+Assets\Scripts\Events\String\UnityEvent_string.cs, code is 6, comment is 0, blank is 4.
+Assets\Scripts\Events\StringVariable\EventRaiser_StringVariable.cs, code is 10, comment is 0, blank is 3.
+Assets\Scripts\Events\StringVariable\GameEvent_StringVariable.cs, code is 13, comment is 0, blank is 4.
+Assets\Scripts\Events\StringVariable\GameEventListener_StringVariable.cs, code is 17, comment is 0, blank is 6.
+Assets\Scripts\Events\StringVariable\UnityEvent_StringVariable.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\Vector2\EventRaiser_Vector2.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\Vector2\GameEvent_Vector2.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\Vector2\GameEventListener_Vector2.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\Vector2\UnityEvent_Vector2.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Events\Vector3\EventRaiser_Vector3.cs, code is 10, comment is 0, blank is 4.
+Assets\Scripts\Events\Vector3\GameEvent_Vector3.cs, code is 14, comment is 0, blank is 4.
+Assets\Scripts\Events\Vector3\GameEventListener_Vector3.cs, code is 19, comment is 0, blank is 7.
+Assets\Scripts\Events\Vector3\UnityEvent_Vector3.cs, code is 6, comment is 0, blank is 3.
+Assets\Scripts\Interfaces\IMouseUser.cs, code is 9, comment is 0, blank is 2.
+Assets\Scripts\Managers\BuildingSelection\BuildingGetter.cs, code is 20, comment is 0, blank is 4.
+Assets\Scripts\Managers\BuildingSelection\BuildingInstanceHolder.cs, code is 8, comment is 0, blank is 1.
+Assets\Scripts\Managers\BuildingSelection\BuildingSelection.cs, code is 29, comment is 0, blank is 6.
+Assets\Scripts\Managers\CameraMovement_TopDown.cs, code is 38, comment is 0, blank is 7.
+Assets\Scripts\Managers\ConstructionSetter.cs, code is 102, comment is 13, blank is 22.
+Assets\Scripts\Managers\InstanceManager.cs, code is 130, comment is 8, blank is 34.
+Assets\Scripts\Managers\MapMovement\MapMover.cs, code is 13, comment is 0, blank is 3.
+Assets\Scripts\Managers\MapMovement\MapMover_Controller.cs, code is 37, comment is 0, blank is 7.
+Assets\Scripts\Managers\MouseManager.cs, code is 41, comment is 0, blank is 5.
+Assets\Scripts\Managers\Positioner\SoldierPositioner.cs, code is 111, comment is 12, blank is 28.
+Assets\Scripts\Managers\Positioner\SoldierSpawner.cs, code is 26, comment is 0, blank is 6.
+Assets\Scripts\Managers\SoldierMovement\ActiveSoldierMovementDisplayer.cs, code is 35, comment is 0, blank is 9.
+Assets\Scripts\Managers\SoldierMovement\SoldierDestinationSetter.cs, code is 18, comment is 1, blank is 6.
+Assets\Scripts\Managers\SoldierMovement\SoldierMovement.cs, code is 87, comment is 8, blank is 21.
+Assets\Scripts\Managers\SoldierSelection\SelectedSoldiers.cs, code is 20, comment is 0, blank is 5.
+Assets\Scripts\Managers\SoldierSelection\SoldierInstancesHolder.cs, code is 8, comment is 0, blank is 1.
+Assets\Scripts\Managers\SoldierSelection\SoldierSelectionController.cs, code is 74, comment is 3, blank is 14.
+Assets\Scripts\Managers\SoldierSelection\SoldierSelectionDisplayer.cs, code is 22, comment is 0, blank is 6.
+Assets\Scripts\Managers\TileSelection\SelectedTiles.cs, code is 20, comment is 0, blank is 4.
+Assets\Scripts\Managers\TileSelection\TileSelectionController.cs, code is 62, comment is 1, blank is 15.
+Assets\Scripts\Managers\TileSelection\TileSelectionDisplayer.cs, code is 29, comment is 4, blank is 5.
+Assets\Scripts\Managers\Tools\ClickedLayerObjeGetter.cs, code is 19, comment is 0, blank is 4.
+Assets\Scripts\Managers\Tools\ClickedLayerObjeGetter_Building.cs, code is 6, comment is 0, blank is 2.
+Assets\Scripts\Managers\Tools\ClickedLayerObjeGetter_Tile.cs, code is 6, comment is 0, blank is 2.
+Assets\Scripts\Managers\Tools\ExistsTileGetterOnMap.cs, code is 40, comment is 9, blank is 8.
+Assets\Scripts\Managers\Tools\MapUtils.cs, code is 65, comment is 0, blank is 9.
+Assets\Scripts\Managers\Tools\NextPossibleMovementPointHolder.cs, code is 12, comment is 2, blank is 4.
+Assets\Scripts\Managers\Tools\NextPossiblePointHolder.cs, code is 10, comment is 0, blank is 2.
+Assets\Scripts\Managers\Tools\NextPossibleSpawnPointHolder.cs, code is 26, comment is 6, blank is 4.
+Assets\Scripts\Map\Index.cs, code is 83, comment is 9, blank is 23.
+Assets\Scripts\Map\MapSetter.cs, code is 258, comment is 9, blank is 54.
+Assets\Scripts\MapObjects\Building.cs, code is 20, comment is 0, blank is 6.
+Assets\Scripts\MapObjects\BuildingData.cs, code is 9, comment is 0, blank is 1.
+Assets\Scripts\MapObjects\Instance.cs, code is 29, comment is 0, blank is 5.
+Assets\Scripts\MapObjects\Instance_Building.cs, code is 16, comment is 0, blank is 6.
+Assets\Scripts\MapObjects\Instance_Soldier.cs, code is 48, comment is 0, blank is 14.
+Assets\Scripts\MapObjects\MapObje.cs, code is 17, comment is 0, blank is 5.
+Assets\Scripts\MapObjects\MapObjeData.cs, code is 15, comment is 0, blank is 2.
+Assets\Scripts\MapObjects\Soldier.cs, code is 33, comment is 0, blank is 8.
+Assets\Scripts\MapObjects\SoldierData.cs, code is 9, comment is 0, blank is 1.
+Assets\Scripts\MapObjects\Tile.cs, code is 12, comment is 0, blank is 4.
+Assets\Scripts\MiniMap\MiniMapController.cs, code is 24, comment is 3, blank is 6.
+Assets\Scripts\MiniMap\MinimapDisplayer.cs, code is 105, comment is 3, blank is 18.
+Assets\Scripts\Pathfinding\ITileGrid.cs, code is 9, comment is 0, blank is 2.
+Assets\Scripts\Pathfinding\PathFinding_AStar.cs, code is 67, comment is 40, blank is 20.
+Assets\Scripts\Pathfinding\PathFindingGridInterface.cs, code is 38, comment is 0, blank is 5.
+Assets\Scripts\Pathfinding\PriorityQueue.cs, code is 29, comment is 1, blank is 7.
+Assets\Scripts\Pool\Pool.cs, code is 15, comment is 0, blank is 3.
+Assets\Scripts\Pool\PoolController.cs, code is 64, comment is 0, blank is 15.
+Assets\Scripts\Pool\PoolObject.cs, code is 8, comment is 0, blank is 1.
+Assets\Scripts\ScroolView_Looper\ScrollView_Looper.cs, code is 6, comment is 0, blank is 2.
+Assets\Scripts\TwoKeyDictionary\Dictionary.cs, code is 23, comment is 0, blank is 7.
+Assets\Scripts\UI\BuildingButton.cs, code is 24, comment is 0, blank is 6.
+Assets\Scripts\UI\BuildingInfoDisplayer.cs, code is 23, comment is 0, blank is 7.
+Assets\Scripts\UI\MapObjeDisplayer.cs, code is 29, comment is 0, blank is 9.
+Assets\Scripts\UI\RowDisplayer.cs, code is 23, comment is 0, blank is 5.
+Assets\Scripts\UI\ScrollContentCreator.cs, code is 24, comment is 0, blank is 3.
+Assets\Scripts\UI\ScrollContentSetter.cs, code is 54, comment is 2, blank is 9.
+Assets\Scripts\UI\Scrollrect_Op.cs, code is 45, comment is 5, blank is 11.
+Assets\Scripts\UI\SoldierButton.cs, code is 19, comment is 0, blank is 5.
+Assets\Scripts\Variables\BoolVariable.cs, code is 20, comment is 0, blank is 7.
+Assets\Scripts\Variables\ColorVariable.cs, code is 7, comment is 0, blank is 1.
+Assets\Scripts\Variables\FloatVariable.cs, code is 24, comment is 0, blank is 7.
+Assets\Scripts\Variables\IntVariable.cs, code is 25, comment is 0, blank is 6.
+Assets\Scripts\Variables\PositionVariable.cs, code is 8, comment is 0, blank is 1.
+Assets\Scripts\Variables\StringVariable.cs, code is 25, comment is 0, blank is 9.
+Assets\Scripts\Variables\Variable.cs, code is 7, comment is 0, blank is 3.
+Assets\Sprites\GameSprites.spriteatlas, code is 65, comment is 0, blank is 0.
+Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt, code is 1, comment is 0, blank is 0.
+Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt, code is 1, comment is 0, blank is 0.
+Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader, code is 108, comment is 2, blank is 32.
+Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader, code is 111, comment is 3, blank is 30.
+Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader, code is 108, comment is 2, blank is 32.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader, code is 234, comment is 8, blank is 66.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader, code is 188, comment is 13, blank is 49.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader, code is 174, comment is 13, blank is 47.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader, code is 174, comment is 13, blank is 47.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader, code is 101, comment is 9, blank is 27.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader, code is 120, comment is 5, blank is 31.
+Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader, code is 234, comment is 8, blank is 67.
+Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader, code is 92, comment is 0, blank is 21.
+Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc, code is 63, comment is 3, blank is 19.
+Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc, code is 61, comment is 44, blank is 13.
+Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc, code is 84, comment is 10, blank is 22.
+Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt, code is 2, comment is 1, blank is 1.
+Assets\TextMesh Pro\Sprites\EmojiOne.json, code is 155, comment is 0, blank is 1.
+Logs\Packages-Update.log, code is 40, comment is 0, blank is 3.
+Packages\manifest.json, code is 40, comment is 0, blank is 0.
+StrategyGame.sln, code is 29, comment is 0, blank is 0.
+===============================================================================
